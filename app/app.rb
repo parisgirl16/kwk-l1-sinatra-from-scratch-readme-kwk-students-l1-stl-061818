@@ -5,5 +5,4 @@ class App < Sinatra::Base
     "Hello, world!"
   end
 
-  get ''
 end
